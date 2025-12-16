@@ -1,1 +1,3 @@
-# LAZAREV
+A frontend clone of the Lazarev AI website, built to practice modern web development skills and UI/UX replication. This project focuses on clean design, smooth animations, and responsive layouts while keeping the structure close to the original Lazarev AI website.
+
+⚠️ Disclaimer: This project is created only for educational and learning purposes. All design credits belong to the original Lazarev AI team.
